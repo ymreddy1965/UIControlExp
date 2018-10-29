@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UIControlExp</string>
+    <string name="Create">Create New Contact</string>
+    <string name="please_give_your_name">Please give your name</string>
+    <string-array name="Spinner_data">
+
+        <item>Work</item>
+        <item>Home</item>
+        <item>Fax</item>
+        <item>Other</item>
+    </string-array>
+    <string name="title_activity_display">DisplayActivity</string>
+</resources>
